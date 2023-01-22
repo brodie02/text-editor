@@ -27,7 +27,7 @@ export const getDb = async () => {
   const store = tx.objectStore('jate');
   const request = store.getAll();
   const result = await request;
-  return result;
+  return result?.value;
 }
 
 initdb();
