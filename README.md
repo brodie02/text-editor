@@ -49,6 +49,8 @@ npm start
 
 To access the website, click the link below. Click the install button to install the application onto your computer/laptop.
 
+https://mighty-castle-93411.herokuapp.com/
+
 ![homepage](./assets/webpage.png)
 
 ## Credits
